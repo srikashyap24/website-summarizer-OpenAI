@@ -25,7 +25,7 @@ A lightweight tool that scrapes content from a given web page and summarizes it 
 
 ## 📌 Example Output
 
-### 🔗 URL: https://example.com/article-on-ai
+### 🔗 URL: (https://www.volvogroup.com/en/)
 
 **Summary:**
 This article explores the evolution of artificial intelligence, its current applications in healthcare and finance, and the ethical considerations around data privacy and algorithmic bias.
